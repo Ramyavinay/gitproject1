@@ -1,0 +1,4 @@
+Main ()
+{
+Printf("welcome to course");
+}
